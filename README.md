@@ -26,3 +26,6 @@ This Node.js server fetches programming contests from LeetCode, CodeChef, and Co
 - **Tech Stack**: ERN (Express, React, Node.js).
 - **Responsive UI**: Designed with Tailwind CSS for a sleek and mobile-friendly experience.
 
+** Watch the video on browser **
+
+https://drive.google.com/file/d/1pJ1p38O-Nle8GPGNaI11Nw39lrowOS1A/view?usp=sharing
