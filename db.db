@@ -1,0 +1,19 @@
+ostgres=# select * from Users;
+ id | firstname | lastname |  contact   
+----+-----------+----------+------------
+  1 | Shivansh  | Charak   | 9103004470
+  2 | Alice     | Smith    | 9876543210
+  3 | Bob       | Johnson  | 9123456789
+  4 | Charlie   | Brown    | 8765432109
+  5 | David     | Williams | 9988776655
+(5 rows)
+
+postgres=# select * from transactions;
+ transaction_id | amount | user_id 
+----------------+--------+---------
+              6 |    500 |       1
+              7 |   1500 |       2
+              8 |    300 |       3
+              9 |    750 |       1
+             10 |   2000 |       4
+(5 rows)
